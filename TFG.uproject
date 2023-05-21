@@ -15,5 +15,8 @@
 				"Win64"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
